@@ -15,7 +15,7 @@ var HeaderComponent = (function () {
     HeaderComponent = __decorate([
         core_1.Component({
             moduleId: module.id,
-            selector: 'contacts-header',
+            selector: 'application-header',
             templateUrl: 'header.component.html',
             styleUrls: ['header.component.css']
         }), 
@@ -23,5 +23,6 @@ var HeaderComponent = (function () {
     ], HeaderComponent);
     return HeaderComponent;
 }());
-exports.HeaderComponent = HeaderComponent;
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.default = HeaderComponent;
 //# sourceMappingURL=header.component.js.map
